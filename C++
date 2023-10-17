@@ -33,6 +33,13 @@ Open-Source Development: Many open-source projects are written in C++.
 
 C++ is known for its balance between low-level programming (such as memory management) and high-level abstractions, which makes it a powerful choice for developers who need control over system resources while benefiting from a structured and object-oriented approach. It remains a popular language in many domains and is continually evolving with each new standard (e.g., C++11, C++17, C++20) to improve productivity and safety.
 
+C++ Operators
+Operators are used to perform operations on variables and values.
+
+In the example below, we use the + operator to add together two values:
+
+Example
+int x = 100 + 50;
 
 
 #include <iostream>
