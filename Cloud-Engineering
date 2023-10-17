@@ -10,3 +10,10 @@ Cloud engineering is a field of expertise that focuses on the design, developmen
 
 
 Cloud engineering, often referred to as cloud infrastructure engineering, is a specialized field within cloud computing that focuses on designing, building, and maintaining the infrastructure and services needed for cloud-based solutions. Cloud engineers play a crucial role in the successful deployment and operation of cloud systems. Here are key aspects of cloud engineering:
+
+
+Cost Management: Managing cloud costs is a significant challenge. Cloud engineers develop strategies to control costs, which may involve resource allocation, reserved instances, and using cost monitoring tools.
+
+Backup and Disaster Recovery: Cloud engineers plan and implement backup and disaster recovery solutions to ensure data integrity and business continuity in case of failures or data loss.
+
+Containers and Orchestration: Cloud engineers work with containerization technologies like Docker and orchestration platforms like Kubernetes to deploy and manage applications in a containerized environment.
