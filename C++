@@ -34,7 +34,13 @@ Open-Source Development: Many open-source projects are written in C++.
 C++ is known for its balance between low-level programming (such as memory management) and high-level abstractions, which makes it a powerful choice for developers who need control over system resources while benefiting from a structured and object-oriented approach. It remains a popular language in many domains and is continually evolving with each new standard (e.g., C++11, C++17, C++20) to improve productivity and safety.
 
 
-
+// data types 
+int myNum = 5;               // Integer (whole number)
+float myFloatNum = 5.99;     // Floating point number
+double myDoubleNum = 9.98;   // Floating point number
+char myLetter = 'D';         // Character
+bool myBoolean = true;       // Boolean
+string myText = "Hello";     // String
 #include <iostream>
 using namespace std;
 
