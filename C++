@@ -59,3 +59,19 @@ Security and Compliance: Ensuring the security and compliance of cloud systems i
 
 Performance Optimization: Cloud engineers work on optimizing the performance of cloud-based applications and services, including monitoring, analyzing, and fine-tuning cloud resources to ensure efficient operations.
 
+C++
+C++ is known for its balance between low-level programming (such as memory management) and high-level abstractions, which makes it a powerful choice for developers who need control over system resources while benefiting from a structured and object-oriented approach. It remains a popular language in many domains and is continually evolving with each new standard (e.g., C++11, C++17, C++20) to improve productivity and safety.
+
+General-Purpose Language: C++ is a general-purpose programming language, which means it can be used to create a wide range of applications, from system software to high-level applications.
+
+Object-Oriented: C++ is an object-oriented programming (OOP) language. It supports the creation and use of classes and objects, making it suitable for modeling real-world entities and their interactions.
+
+Performance: C++ is known for its high performance and efficiency. It is often used in situations where speed and resource usage are critical, such as game development and system-level programming.
+
+Systems Programming: C++ is commonly used for systems programming, where it's used to build operating systems, device drivers, and other low-level software.
+
+Game Development: Many video games, especially those that require high-performance graphics and physics calculations, are developed using C++.
+
+Embedded Systems: C++ is used in embedded systems development, as it allows for precise control over hardware and resources.
+
+Application Software: C++ can be used to develop desktop applications, like office productivity software and media players.
