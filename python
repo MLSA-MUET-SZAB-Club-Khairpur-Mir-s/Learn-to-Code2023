@@ -1,1 +1,50 @@
-ok
+Built-in Functions:
+
+len(iterable): Returns the length of an iterable.
+range(start, stop, step): Generates a sequence of numbers.
+sorted(iterable): Returns a sorted list from an iterable.
+min(iterable): Returns the minimum value from an iterable.
+max(iterable): Returns the maximum value from an iterable.
+sum(iterable): Returns the sum of elements in an iterable.
+abs(number): Returns the absolute value of a number.
+any(iterable): Returns True if at least one element in the iterable is True.
+all(iterable): Returns True if all elements in the iterable are True.
+List Methods:
+
+append(item): Adds an item to the end of a list.
+extend(iterable): Adds items from an iterable to the end of a list.
+pop(index): Removes and returns an item at the specified index.
+insert(index, item): Inserts an item at a specific index.
+index(item): Returns the index of the first occurrence of an item.
+count(item): Returns the number of occurrences of an item.
+sort(): Sorts the list in ascending order.
+reverse(): Reverses the elements of a list.
+String Methods:
+
+split(separator): Splits a string into a list of substrings using the separator.
+join(iterable): Joins elements of an iterable using the string as a separator.
+strip(): Removes leading and trailing whitespace.
+replace(old, new): Replaces occurrences of a substring with another substring.
+startswith(prefix), endswith(suffix): Checks if a string starts or ends with a given substring.
+lower(), upper(): Converts a string to lowercase or uppercase.
+Dictionary Methods:
+
+keys(), values(), items(): Returns lists of keys, values, or key-value pairs.
+get(key, default): Returns the value for a given key or a default value.
+pop(key): Removes and returns the value associated with a key.
+update(dict): Updates the dictionary with key-value pairs from another dictionary.
+Set Methods:
+
+add(item): Adds an item to a set.
+remove(item): Removes an item from a set. Raises an error if not found.
+discard(item): Removes an item from a set if it exists.
+union(iterable), intersection(iterable), difference(iterable): Set operations.
+pop(): Removes and returns an arbitrary element from a set.
+Other Common Functions and Methods:
+
+enumerate(iterable): Returns pairs of index and value from an iterable.
+zip(iterable1, iterable2): Combines two or more iterables element-wise.
+map(function, iterable): Applies a function to each element of an iterable.
+filter(function, iterable): Filters elements of an iterable based on a function.
+sum(iterable, start): Returns the sum of elements in an iterable starting from the given value.
+These functions and methods are essential tools for solving a wide range of Data Structures and Algorithms problems in Python. Familiarizing yourself with these functions will significantly improve your efficiency in tackling DSA challenges.
